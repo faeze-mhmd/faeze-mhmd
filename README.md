@@ -3,6 +3,7 @@
 **Computer Engineering Student @ University of Tehran | AI & ML | Computer Vision • Deep Learning • Reinforcement Learning**
 
 I build projects across artificial intelligence, computer architecture, and embedded systems. I enjoy turning core concepts into working implementations—from machine-learning experiments and search agents to RISC-V processors and FPGA designs.
+
 **Currently looking for internship and junior engineering roles.**
 
 ## About me
@@ -79,9 +80,9 @@ I like projects that make the reasoning visible. My repositories typically inclu
 
 I am strengthening my foundations in AI and machine learning while exploring how intelligent models connect with reliable software, computer architecture, and hardware-aware computing.
 
-## Résumé
+## Resume
 
-📄 [View or download my résumé](./Faeze-Mohammadi-Resume.pdf)
+📄 [View or download my resume](./Faeze-Mohammadi-Resume.pdf)
 
 <!-- Upload your résumé PDF to the profile repository with the exact filename Faeze-Mohammadi-Resume.pdf. -->
 
