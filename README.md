@@ -23,13 +23,15 @@ I build projects across artificial intelligence, computer architecture, and embe
 
 ### Coursera
 
-| Completed course | Provider | Certificate |
-| --- | --- | --- |
-| Supervised Machine Learning: Regression and Classification | Coursera · Stanford Online · DeepLearning.AI | [PDF](./certificates/coursera-supervised-machine-learning.pdf) |
-| Advanced Learning Algorithms | Coursera · Stanford Online · DeepLearning.AI | [PDF](./certificates/coursera-advanced-learning-algorithms.pdf) |
-| Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera · Stanford Online · DeepLearning.AI | [PDF](./certificates/coursera-unsupervised-recommenders-reinforcement-learning.pdf) |
-| Introduction to Statistics | Coursera · Stanford Online | [PDF](./certificates/coursera-introduction-to-statistics.pdf) |
-| Writing in the Sciences | Coursera · Stanford Online | [PDF](./certificates/coursera-writing-in-the-sciences.pdf) |
+| Credential | Provider | Certificate |
+|---|---|---|
+| **Machine Learning Specialization** | DeepLearning.AI · Stanford Online · Coursera | [PDF](certificates/machine-learning-specialization.pdf) |
+| ↳ Supervised Machine Learning: Regression and Classification | Part 1 of the specialization | [PDF](certificates/supervised-machine-learning.pdf) |
+| ↳ Advanced Learning Algorithms | Part 2 of the specialization | [PDF](certificates/advanced-learning-algorithms.pdf) |
+| ↳ Unsupervised Learning, Recommenders, Reinforcement Learning | Part 3 of the specialization | [PDF](certificates/unsupervised-learning-recommenders-reinforcement-learning.pdf) |
+| Introduction to Statistics | Stanford Online · Coursera | [PDF](certificates/coursera-introduction-to-statistics.pdf) |
+| Writing in the Sciences | Stanford Online · Coursera | [PDF](certificates/coursera-writing-in-the-sciences.pdf) |
+
 
 ### OpenCV University
 
@@ -42,8 +44,6 @@ I build projects across artificial intelligence, computer architecture, and embe
 | Free OpenCV Bootcamp | [PDF](./certificates/opencv-opencv-bootcamp.pdf) |
 
 These courses included hands-on work in supervised and unsupervised learning, neural networks, recommendation systems, reinforcement learning, statistics, scientific communication, computer vision, vision-language models, TensorFlow/Keras, PyTorch, Python, and OpenCV.
-
-<!-- Upload the certificate PDFs to a certificates folder using the exact filenames in the links above. -->
 
 ## Selected projects
 
