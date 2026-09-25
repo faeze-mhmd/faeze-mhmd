@@ -3,6 +3,7 @@
 **Computer Engineering Student @ University of Tehran | AI & ML | Computer Vision • Deep Learning • Reinforcement Learning**
 
 I build projects across artificial intelligence, computer architecture, and embedded systems. I enjoy turning core concepts into working implementations—from machine-learning experiments and search agents to RISC-V processors and FPGA designs.
+**Currently looking for internship and junior engineering roles.**
 
 ## About me
 
