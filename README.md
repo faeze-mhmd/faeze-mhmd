@@ -100,8 +100,7 @@ I am strengthening my foundations in AI and machine learning while exploring how
 
 ## Resume
 
-📄 [View or download my academic and research resume](./Faeze-Mohammadi-Resume.pdf)
-
+📄 [View or download my academic and research resume](./Faeze-Mohammadi-Academic-Research-Resume.pdf)
 
 ## Connect
 
