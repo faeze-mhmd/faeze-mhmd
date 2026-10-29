@@ -105,7 +105,7 @@ Additional projects include [Bayesian robot localization in R](https://github.co
 
 ## Resume
 
-[View or download my academic and research resume](./Faeze-Mohammadi-Academic-Research-Resume.pdf)
+[View or download my academic and research resume](./certificates/Faeze-Mohammadi-Academic-Research-Resume.pdf)
 
 ## Connect
 
