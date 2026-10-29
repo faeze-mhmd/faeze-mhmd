@@ -47,7 +47,7 @@ Serving a third term as a teaching assistant, with TA supervisor responsibilitie
 
 **University of Tehran | Instructor: Dr. Hossein Hojjat**
 
-Supported students in understanding formal languages, grammars, and finite automata, including the connections between language descriptions and computational models. Helped students reason through automata constructions, formal proofs, and course problems.
+Supporting students in understanding formal languages, grammars, and finite automata, including the connections between language descriptions and computational models. Helping students reason through automata constructions, formal proofs, and course problems.
 
 ## Selected projects
 
