@@ -14,6 +14,7 @@ My projects include a Separation Index representation audit, Persian poetry attr
 - **GPA: 19.68/20.00**
 - **Academic rank: 1st of ~120** in the Computer Engineering entering cohort, based on the first two years of study
 - **Selected course grades (20/20):** Probability and Statistics; Discrete Mathematics; Artificial Intelligence; Data Structures; Advanced Programming; Formal Languages and Automata; Engineering Mathematics; Calculus II; Differential Equations
+- **Selected current coursework (Fall 2026):** Machine Learning; Signals and Systems
 - Six years of secondary education in schools of the **National Organization for Development of Exceptional Talents**, 2018–2024; **Diploma GPA: 19.86/20.00**
 - **National Olympiad Round 2 qualifier:** Mathematics, Computer Science, and Economics & Management
 
