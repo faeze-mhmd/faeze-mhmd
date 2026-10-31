@@ -1,8 +1,8 @@
 # Hi, I'm Faeze Mohammadi 👋
 
-**Computer Engineering Student at the University of Tehran | Artificial Intelligence and Machine Learning | Computer Vision · NLP · Reinforcement Learning**
+**Computer Engineering Student at the University of Tehran | Machine Learning · Deep Learning · Computer Vision · Cryptography**
 
-I am a Computer Engineering undergraduate pursuing research in artificial intelligence, machine learning, and deep learning. I work with Dr. Ahmad Kalhor on data and representation evaluation, and with Dr. Khatami under Dr. Siamak Mohammadi on neural networks for side-channel analysis.
+I am a Computer Engineering undergraduate pursuing research in artificial intelligence, machine learning, and deep learning. I work with Dr. Ahmad Kalhor in the Machine Learning Laboratory on evaluating data and representations with the Separation Index, and with Malihe Khatami in Dr. Siamak Mohammadi's Dependable System Design Laboratory on neural networks for side-channel analysis.
 
 My projects include a Separation Index representation audit, Persian poetry attribution and retrieval, blood-cell classification, reinforcement learning, and evolutionary and adversarial search. I develop and evaluate models through experiments, baseline comparisons, and analysis of their behavior and limitations.
 
@@ -10,42 +10,43 @@ My projects include a Separation Index representation audit, Persian poetry attr
 
 ## Education and academic highlights
 
-- **University of Tehran — BSc student in Computer Engineering**
+- **University of Tehran — BSc in Computer Engineering** (Sep 2024 – present; expected Jul 2028)
 - **GPA: 19.68/20.00**
-- **Academic rank: 1st** in the Computer Engineering entering cohort, based on the first two years of study
+- **Academic rank: 1st of ~120** in the Computer Engineering entering cohort, based on the first two years of study
 - **Selected course grades (20/20):** Probability and Statistics; Discrete Mathematics; Artificial Intelligence; Data Structures; Advanced Programming; Formal Languages and Automata; Engineering Mathematics; Calculus II; Differential Equations
-- Six years of secondary education in schools of the **National Organization for Development of Exceptional Talents (NODET; SAMPAD)**, 2018–2024; **Diploma GPA: 19.86/20.00**
+- Six years of secondary education in schools of the **National Organization for Development of Exceptional Talents**, 2018–2024; **Diploma GPA: 19.86/20.00**
 - **National Olympiad Round 2 qualifier:** Mathematics, Computer Science, and Economics & Management
 
 ## Current research
 
 ### Data and Representation Evaluation with SI and SmI
 
-**University of Tehran | Faculty-guided research with Dr. Ahmad Kalhor | In progress**
+**Machine Learning Laboratory, University of Tehran | Supervisor: Dr. Ahmad Kalhor | Sep 2026 – present**
 
-- Working on an ongoing research project involving Separation Index (SI) and Smoothness Index (SmI) for evaluating data and neural representations.
-- The research covers data difficulty, quantity, diversity, and coverage; changes in network representations during training; and feature or layer removal while maintaining accuracy. Current SI benchmarking uses MNIST, Fashion-MNIST, CIFAR-10, and CIFAR-100 with controlled comparisons and separate training and validation sets.
-- These studies form the foundation of a broader research project that continues to develop under Dr. Kalhor's guidance.
+- Studying how the Separation Index (SI) and Smoothness Index (SmI) can assess data difficulty and diversity, track how representations evolve across layers during training, and guide feature or layer reduction without loss of accuracy; the project is in its first phase.
+- Exploratory first phase: compared sample-selection methods on MNIST, Fashion-MNIST, CIFAR-10, and CIFAR-100 using accuracy, SI, geometric coverage, and density, with separate training and validation sets.
+- Now extending to the mean and variance of SI across data subsets as a diversity criterion, followed by SmI and the layer-wise analysis.
 
-### Neural Networks for Profiling Side-Channel Analysis
+### Neural Network-Based Side-Channel Attack Analysis for Cryptographic Algorithms
 
-**University of Tehran | Guided by Dr. Khatami under Dr. Siamak Mohammadi | In progress**
+**[Dependable System Design Lab](https://dsdlab.ut.ac.ir), University of Tehran | Supervisor: Malihe Khatami (PhD candidate) | PI: Dr. Siamak Mohammadi | Sep 2026 – present**
 
+- Part of the laboratory's project *Design and Implementation of Remote Side-Channel Attacks and Countermeasures*.
 - Evaluating MLP, CNN, LSTM, and a CNN with a linear-attention adapter on ASCAD, using 50,000 profiling traces and 10,000 attack traces to study recovery of a single AES key byte.
-- Analyzing key-rank curves across seeds, checkpoint replay, and ablations. CNN/MLP and hybrid experiments recovered the target byte across three seeds; recurrent follow-ups also include unsuccessful results.
+- Analyzing key-rank curves across seeds, checkpoint replay, and ablations. CNN, MLP, and the hybrid model recovered the target byte across all three seeds; LSTM models did not, and these negative results are documented.
 - Examining attention ablations and seed variability; the hybrid showed mixed recovery efficiency relative to matched CNN controls in the exploratory experiments.
 
 ## Teaching experience
 
-### Teaching Assistant / TA Supervisor — Discrete Mathematics
+### Teaching Assistant and TA Supervisor — Discrete Mathematics
 
-**University of Tehran | Instructor: Dr. Siamak Mohammadi**
+**University of Tehran | Instructor: Dr. Siamak Mohammadi | Fall 2025 – present (3 terms)**
 
-Serving a third term as a teaching assistant, with TA supervisor responsibilities this term. Supporting students in mathematical logic, proof techniques and induction, recurrence relations, counting, and graph theory.
+Serving a third term as a teaching assistant, with TA supervisor responsibilities this term, in a course of 90+ students. Supporting students in mathematical logic, proof techniques and induction, recurrence relations, counting, and graph theory.
 
 ### Teaching Assistant — Formal Languages and Automata
 
-**University of Tehran | Instructor: Dr. Hossein Hojjat**
+**University of Tehran | Instructor: Dr. Hossein Hojjat | Fall 2026 – present**
 
 Supporting students in understanding formal languages, grammars, and finite automata, including the connections between language descriptions and computational models. Helping students reason through automata constructions, formal proofs, and course problems.
 
@@ -64,9 +65,11 @@ Additional projects include [Bayesian robot localization in R](https://github.co
 
 ## Technical skills
 
-**Programming:** Python · C++ · C · R · Verilog
+**Programming:** Python · C++ · C · R
 
 **Machine Learning and Data Analysis:** PyTorch · TensorFlow/Keras · scikit-learn · OpenCV · NumPy · pandas
+
+**Languages:** Persian (native) · English (upper-intermediate, CEFR B2)
 
 ## Selected courses and certificates
 
@@ -105,7 +108,7 @@ Additional projects include [Bayesian robot localization in R](https://github.co
 
 ## Resume
 
-[View or download my academic and research resume](./certificates/Faeze-Mohammadi-Academic-Research-Resume.pdf)
+[View or download my research CV](./Faeze-Mohammadi-Research-CV.pdf)
 
 ## Connect
 
