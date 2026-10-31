@@ -22,7 +22,7 @@ My projects include a Separation Index representation audit, Persian poetry attr
 
 ### Data and Representation Evaluation with SI and SmI
 
-**Machine Learning Laboratory, University of Tehran | Supervisor: Dr. Ahmad Kalhor | Sep 2026 – present**
+**Machine Learning Laboratory, University of Tehran | Supervisor: Dr. Ahmad Kalhor | Oct 2026 – present**
 
 - Studying how the Separation Index (SI) and Smoothness Index (SmI) can assess data difficulty and diversity, track how representations evolve across layers during training, and guide feature or layer reduction without loss of accuracy; the project is in its first phase.
 - Exploratory first phase: compared sample-selection methods on MNIST, Fashion-MNIST, CIFAR-10, and CIFAR-100 using accuracy, SI, geometric coverage, and density, with separate training and validation sets.
@@ -30,7 +30,7 @@ My projects include a Separation Index representation audit, Persian poetry attr
 
 ### Neural Network-Based Side-Channel Attack Analysis for Cryptographic Algorithms
 
-**[Dependable System Design Lab](https://dsdlab.ut.ac.ir), University of Tehran | Supervisor: Malihe Khatami (PhD candidate) | PI: Dr. Siamak Mohammadi | Sep 2026 – present**
+**[Dependable System Design Lab](https://dsdlab.ut.ac.ir), University of Tehran | Supervisor: Malihe Khatami (PhD candidate) | PI: Dr. Siamak Mohammadi | Oct 2026 – present**
 
 - Part of the laboratory's project *Design and Implementation of Remote Side-Channel Attacks and Countermeasures*.
 - Evaluating MLP, CNN, LSTM, and a CNN with a linear-attention adapter on ASCAD, using 50,000 profiling traces and 10,000 attack traces to study recovery of a single AES key byte.
